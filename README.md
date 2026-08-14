@@ -78,9 +78,12 @@ Banks:
 → SBI, ICICI, Axis, HDFC
 (5,000 each)
 
-Amount range: $0.05 to $1,999.87
-Total amount: $19,872,274
-Average: $993.61
+Amount range: $0.05 to $1,999.87 
+
+Total amount: $19,872,274  
+
+Average: $993.61  
+
 Customer age: 20 to 59 years
 
 ---
