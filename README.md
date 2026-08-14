@@ -103,9 +103,11 @@ IF(
 )
 ```
 
+```
 A1: Age 20-25 (Young customers)
 A2: Age 26-35 (Mid-age customers)
 A3: Age 36-59 (Senior customers)
+```
 
 ---
 
@@ -142,6 +144,7 @@ Matrix visual showing:
 
 ## Advanced Features Used
 
+```
 ✅ Bookmarks (4 bookmarks)
 ✅ Bookmark Navigator button
 ✅ Selection Pane management
@@ -152,6 +155,7 @@ Matrix visual showing:
 ✅ Data profiling (Power Query)
 ✅ Mathematical slicer positioning
 ✅ Published to Power BI Service
+```
 
 ---
 
@@ -183,6 +187,7 @@ ecosystem.
 
 ## Project Files
 
+```
 upi-transactions-powerbi-dashboard/
 ├── UPI_Transactions_Dashboard.pbix
 ├── UPI_Transactions.xlsx
@@ -190,7 +195,7 @@ upi-transactions-powerbi-dashboard/
 │ ├── upi_dashboard_page1.png
 │ └── upi_dashboard_page2.png
 └── README.md
-
+```
 ---
 
 ## Related Portfolio Projects
